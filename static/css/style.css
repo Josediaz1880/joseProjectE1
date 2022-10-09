@@ -1,0 +1,21 @@
+.perfil{
+    height: 400px;
+    width: 400px;
+}
+/* Definimos un tamaño para todas las imagenes dentro de index.html y proyectos.html */
+img{
+    height: 400px;
+    width: 400px;
+}
+/* separamos de los bordes y añadimos color */
+ul{
+    border: 5px solid #6f42c1;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+/*cambiamos el estilo del titulo*/
+h1{
+    color: #6f42c1;
+    text-transform: uppercase;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
