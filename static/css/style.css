@@ -1,11 +1,7 @@
-.perfil{
-    height: 400px;
-    width: 400px;
-}
 /* Definimos un tamaño para todas las imagenes dentro de index.html y proyectos.html */
 img{
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
 }
 /* separamos de los bordes y añadimos color */
 ul{
@@ -18,4 +14,8 @@ h1{
     color: #6f42c1;
     text-transform: uppercase;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+/* Cambiamos la fuente del parrafo de detalle del proyecto */
+p{
+    font-family:cursive;
 }
